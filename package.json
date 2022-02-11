@@ -1,6 +1,6 @@
 {
   "name": "image-converter-for-instagram",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image converter for instagram.",
   "type": "module",
   "main": "index.js",
