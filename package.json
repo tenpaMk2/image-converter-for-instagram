@@ -5,7 +5,6 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js -i inputs -o outputs -t 1000 -m 800",
     "exe": "node index.js -i inputs -o outputs",
     "help": "node index.js --help"
   },
