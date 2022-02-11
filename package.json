@@ -1,0 +1,34 @@
+{
+  "name": "image-converter-for-instagram",
+  "version": "1.0.0",
+  "description": "Image converter for instagram.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js -i inputs -o outputs -t 1000 -m 800",
+    "exe": "node index.js -i inputs -o outputs",
+    "help": "node index.js --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenpaMk2/image-converter-for-instagram.git"
+  },
+  "keywords": [
+    "node",
+    "image-min",
+    "image-min-webp"
+  ],
+  "author": "tenpaMk2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenpaMk2/image-converter-for-instagram/issues"
+  },
+  "homepage": "https://github.com/tenpaMk2/image-converter-for-instagram#readme",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
