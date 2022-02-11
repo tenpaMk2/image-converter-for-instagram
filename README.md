@@ -19,3 +19,13 @@ You can see the help.
 ```shell
 npm run help
 ```
+
+## before-after
+
+### before
+
+![before](./inputs/portlait.jpg)
+
+### after
+
+![after](./img/portlait.jpg)
