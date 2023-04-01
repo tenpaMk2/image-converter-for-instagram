@@ -14,8 +14,7 @@
   },
   "keywords": [
     "node",
-    "image-min",
-    "image-min-webp"
+    "jimp"
   ],
   "author": "tenpaMk2",
   "license": "MIT",
