@@ -3,10 +3,10 @@
   "version": "1.0.1",
   "description": "Image converter for instagram.",
   "type": "module",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
-    "exe": "node index.js -i inputs -o outputs",
-    "help": "node index.js --help"
+    "exe": "node index.mjs -i inputs -o outputs",
+    "help": "node index.mjs --help"
   },
   "repository": {
     "type": "git",
